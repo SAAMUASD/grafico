@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 4rem;
+}
+
+h1{
+    color: rgba(149, 125, 173)!important;
+}
+
+h2{
+    color: rgb(210, 145, 188)!important;
+}
+.input-group-text{
+    color: rgb(210, 145, 188)!important;
+}
+button{
+    background-color: rgba(149, 125, 173)!important;
+    color: white!important;
+    font-weight: bold!important;
+}
+button:hover{
+    background-color: rgba(254, 200, 216)!important;
+}
